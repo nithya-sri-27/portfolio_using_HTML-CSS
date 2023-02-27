@@ -1,0 +1,7 @@
+Difference between framework and library
+framework is a combination of libraries and properties whereas library is a single library
+in frameworks since all the libraries are installed at first it will continue to remain in the project even some libraries are not needed so it increases the bundle size of the project. but in librares only one library is installed and we can install other libraries if needed so it optimizes the bundle size.
+------ReactJs-----
+component based UI approach
+contains virtual DOM   -->reloads only the changed content
+vitrual DOM is present only in ReactJs
